@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "63e9c7b1fe6cc609c3863c6e"
+  },
+  "title": "first demo mongodb",
+  "date": "Mon Feb 13 2023 10:46:33 GMT+0530 (India Standard Time)",
+  "tags": [
+    "news",
+    "events"
+  ],
+  "likes": 1,
+  "category": "news",
+  "body": "body of th first demo"
+},{
+  "_id": {
+    "$oid": "63e9cab2fe6cc609c3863c6f"
+  },
+  "userName": "Dixita Patel",
+  "userAge": 22,
+  "userSurename": "Patel",
+  "gender": "female",
+  "date": "Mon Feb 13 2023 10:59:22 GMT+0530 (India Standard Time)"
+},{
+  "_id": {
+    "$oid": "63e9cab2fe6cc609c3863c70"
+  },
+  "userName": "Dixit Patel",
+  "userAge": 24,
+  "userSurename": "Patel",
+  "gender": "male",
+  "date": "Mon Feb 13 2023 10:59:22 GMT+0530 (India Standard Time)"
+},{
+  "_id": {
+    "$oid": "63e9cab2fe6cc609c3863c71"
+  },
+  "userName": "Keyur Patel",
+  "userAge": 18,
+  "userSurename": "Patel",
+  "gender": "male",
+  "date": "Mon Feb 13 2023 10:59:22 GMT+0530 (India Standard Time)"
+},{
+  "_id": {
+    "$oid": "63e9cab2fe6cc609c3863c72"
+  },
+  "userName": "Kinjal Nagar",
+  "userAge": 21,
+  "userSurename": "Nagar",
+  "gender": "female",
+  "date": {
+    "$code": "function Date() { [native code] }"
+  }
+}]
